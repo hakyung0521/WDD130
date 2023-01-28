@@ -1,0 +1,90 @@
+
+body {
+    background-color: #fcfbfb;
+    max-width: 1600px;    
+    margin: 0 auto;
+    text-align: center;
+}
+
+header {
+    background-color:rgba(20,30,13, .7);
+    text-align: left;
+    max-width: 1600px;   
+}
+
+.logo {
+    width: 80px;
+}
+
+#hero-box img{
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+#hero-msg a{
+    text-decoration: none;
+    background-color: #d9c2a3;
+    color: black;
+}
+
+nav a:hover {
+    background-color: black;
+    color: #d9c2a3;
+}
+
+nav a {
+    color: #fcfbfb;
+    text-decoration: none;
+}
+
+.icon {
+    width: 80px;
+}
+
+.home-grid a:link{
+    background-color: #d9c2a3;
+}
+
+#background {
+    height: 725px;
+    background-color: #d9c2a3;
+}
+
+#mountains {
+    text-align: left;
+    width: 50%;
+}
+
+
+.m a:link{
+    background-color: #d9c2a3;
+    color: black;
+}
+
+.msg {
+    color: #fcfbfb;
+    background-color:rgba(20,30,13, .7);
+    max-width: 1600px;   
+}
+
+.msg a{
+    text-decoration: none;
+    background-color: #d9c2a3;
+    color: black;
+}
+
+footer {
+    background-color:rgba(20,30,13, .7);
+    text-align: left;
+    color: #d9c2a3;
+}
+
+footer p {
+    font-size: 1.2em;
+}    
+  
+footer p a:link {
+    color: #d9c2a3;
+    text-decoration: none;
+}             
