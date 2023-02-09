@@ -121,21 +121,24 @@ h2 {
 }
 
 .msg {
-    color: #fcfbfb;
     background-color:rgba(20,30,13, .7);
     max-width: 1600px;
-    height: 150px;
     line-height: 1.5em;
+    padding: 35px;
     margin-top: 150px;
     margin-bottom: 150px;
     
 }
+.msg h2 {
+    color:white;
+    font-family: 'Rubik', sans-serif;
+}
 
-.msg a{
-    text-decoration: none;
-    background-color: #d9c2a3;
-    color: black;
-    margin-bottom: 100px;
+.msg p {
+    color:rgb(252, 252, 253);
+    font-size: 0.8em;
+    padding-bottom: 15px;
+
 }
 
 footer {
