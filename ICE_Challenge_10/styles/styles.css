@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+img{
+    opacity: 25%;
+    float: right;
+}
+
+h1{
+    color: #1167b1;
+    font-size: 4em;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    color: #D3D3D3;
+    font-size: 20px;
+}
+
+h3{
+    margin-top: 0px;
+    font-family: 'Open Sans', sans-serif;
+    color: #BEBEBE;
+    font-size: 20px;
+
+
+}
+
+form {
+    margin: left;
+    width: 400px;
+    padding: 1em;
+  }
+
+form textarea, button{
+    margin-top: 1em;
+  }
+
+    
+  input, textarea {
+    font: 1em sans-serif;
+    width: 300px;
+    box-sizing: border-box;
+    border: 1px solid #999;
+  }
+
+  textarea:focus {
+    border-color: #000;
+  }
+  
+  textarea {
+    vertical-align: top;
+    height: 2em;
+    border-radius: 7px;
+  }
+  
+  button {
+    vertical-align: top;
+    background-color: #1167b1;
+    color: white;
+    height: 3em;
+    width: 300px;
+    border-radius: 7px;
+    margin: left;
+    margin-top: 1em;
+
+  }
+
