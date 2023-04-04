@@ -128,7 +128,7 @@ h2{
     font-size: 15px;
 }
 
-#food-image {
+#food-image1, #food-image2, #food-image3 {
     width: 100%;
 }
 
@@ -149,13 +149,13 @@ h2{
 
 
 
-#food-image {    
+#food-image1, #food-image2, #food-image3 {    
     border: 10px solid #F5CAC3;
     transition: transform .5s;
     box-shadow: 5px 5px 10px #F5CAC3;
 }
 
-#food-image:hover{
+#food-image1:hover, #food-image2:hover, #food-image3:hover{
     opacity: .6;
     transform: scale(1.1);
 }
